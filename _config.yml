@@ -14,7 +14,7 @@ future: true
 # SNS settings
 RSS: false
 weibo_username:     lworld0x00
-zhihu_username:     1world0x00
+zhihu_username:     1word0x00
 github_username:    lworld0x00
 #twitter_username:   huxpr1woro
 #facebook_username:  huxpro
@@ -79,7 +79,7 @@ netease_comment: false
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "爱生活，爱小韩"
-sidebar-avatar: /img/avatar-hux-ny.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/avatar-xl-ny.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
