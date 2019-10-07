@@ -4,7 +4,7 @@
 
 #### Composition(复合) 表示has-a
 
-![image-20190129200952268](/Users/1world0x00/Library/Application Support/typora-user-images/image-20190129200952268.png)
+![image-20190129200952268](img/image-20190129200952268.png)
 
 上图所表示的`composition`关系为： `queue`这个类中有`deque`类。Ps. `deque`功能比较强大，两端进出。
 
@@ -37,7 +37,7 @@ template <class T>
 
 从内存的角度看 `composition`的关系
 
-![image-20190129205147049](/Users/1world0x00/Library/Application Support/typora-user-images/image-20190129205147049.png)
+![image-20190129205147049](img/image-20190129205147049.png)
 
 
 
@@ -45,7 +45,7 @@ template <class T>
 
 
 
-![image-20190129205259721](/Users/1world0x00/Library/Application Support/typora-user-images/image-20190129205259721.png)
+![image-20190129205259721](img/image-20190129205259721.png)
 
 构造函数由内到外
 
@@ -102,7 +102,7 @@ String::String(){...}
 
 ```
 
-![image-20190129212434464](/Users/1world0x00/Library/Application Support/typora-user-images/image-20190129212434464.png)
+![image-20190129212434464](img/image-20190129212434464.png)
 
 
 
@@ -118,7 +118,7 @@ Copy-On-Write
 
 ##### 继承关系下的构造和析构函数
 
-![image-20190129213842486](/Users/1world0x00/Library/Application Support/typora-user-images/image-20190129213842486.png)
+![image-20190129213842486](img/image-20190129213842486.png)
 
 
 
