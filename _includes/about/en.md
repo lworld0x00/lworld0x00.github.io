@@ -1,5 +1,5 @@
-> You is my luck~
+> Just go ahead
 
-This is about me page~
+- Know some about `python`
 
 
